@@ -1,0 +1,10 @@
+baseURL = 'http://blog.diba.xyz/'
+languageCode = 'zh-CN'
+title = 'No.8 Blog'
+
+# 主題設置
+theme="hyde"
+
+# 連結設置
+[permalinks]
+  posts = "/:year/:month/:title/"
